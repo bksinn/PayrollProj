@@ -1,0 +1,16 @@
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.exe
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.deps.json
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.runtimeconfig.json
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.runtimeconfig.dev.json
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.dll
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\ref\PayrollProj.dll
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\bin\Debug\net5.0\PayrollProj.pdb
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.csproj.AssemblyReference.cache
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.AssemblyInfoInputs.cache
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.AssemblyInfo.cs
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.csproj.CoreCompileInputs.cache
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.dll
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\ref\PayrollProj.dll
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.pdb
+C:\Users\bksin\Desktop\Projects_Misc\PayrollProj\PayrollProj\obj\Debug\net5.0\PayrollProj.genruntimeconfig.cache

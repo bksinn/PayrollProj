@@ -1,0 +1,11 @@
+PAYSLIP FOR SEP 2020
+====================
+Name of Staff: Carol
+Hours Worked: 900
+
+Basic Pay: $27,000.00
+Overtime: $11,470.00
+
+====================
+Total Pay: $38,470.00
+====================
