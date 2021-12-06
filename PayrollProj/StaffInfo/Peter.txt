@@ -1,11 +1,11 @@
-PAYSLIP FOR SEP 2020
+PAYSLIP FOR SEP 2021
 ====================
 Name of Staff: Peter
-Hours Worked: 160
+Hours Worked: 9000
 
-Basic Pay: $8,000.00
+Basic Pay: $450,000.00
 Allowance: $1,000.00
 
 ====================
-Total Pay: $8,000.00
+Total Pay: $451,000.00
 ====================

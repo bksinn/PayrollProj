@@ -1,11 +1,11 @@
-PAYSLIP FOR SEP 2020
+PAYSLIP FOR SEP 2021
 ====================
 Name of Staff: John
-Hours Worked: 5000
+Hours Worked: 10000
 
-Basic Pay: $150,000.00
-Overtime: $75,020.00
+Basic Pay: $300,000.00
+Overtime: $152,520.00
 
 ====================
-Total Pay: $225,020.00
+Total Pay: $452,520.00
 ====================

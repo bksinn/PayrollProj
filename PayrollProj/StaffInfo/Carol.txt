@@ -1,11 +1,11 @@
-PAYSLIP FOR SEP 2020
+PAYSLIP FOR SEP 2021
 ====================
 Name of Staff: Carol
-Hours Worked: 900
+Hours Worked: 87
 
-Basic Pay: $27,000.00
-Overtime: $11,470.00
+Basic Pay: $2,610.00
+Overtime: ($1,131.50)
 
 ====================
-Total Pay: $38,470.00
+Total Pay: $2,610.00
 ====================
